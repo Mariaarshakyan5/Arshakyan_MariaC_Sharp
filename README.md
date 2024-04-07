@@ -24,11 +24,6 @@ To run the console application and compare the execution speeds of sorting algor
 2. Run the compiled executable.
 3. Follow the on-screen instructions to observe the execution speeds of Selection Sort and Shell Sort.
 
-## Future Enhancements
-
-- Complete the implementation of Merge Sort algorithm.
-- Add additional sorting algorithms such as Quick Sort, Bubble Sort, etc.
-- Enhance the user interface for better user interaction and visualization of sorting results.
 
 
 
